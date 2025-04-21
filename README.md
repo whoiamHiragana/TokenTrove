@@ -10,8 +10,8 @@
 
 1. Клонируйте репозиторий и перейдите в его папку:
    ```bash
-   git clone https://github.com/ваш-ник/ваш-репозиторий.git
-   cd ваш-репозиторий
+   git clone https://github.com/whoiamHiragana/TokenTrove.git
+   cd TokenTrove
    ```
 2. Создайте виртуальное окружение и активируйте его:
    ```bash
